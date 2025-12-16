@@ -1,0 +1,14 @@
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Backend (dotnet)
+backend/bin/
+backend/obj/
+
+# Docker
+*.env
+db_data/
+
+# VS Code
+.vscode/
